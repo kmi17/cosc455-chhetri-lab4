@@ -10,7 +10,8 @@ class SyntaxAnalyzer {
   val ARTICLES : List[String] = List("teh", "a")
   val VERBS : List[String] = List("ates", "lovez", "hatez")
   val NOUNS : List[String] = List("kat", "dawg", "rat")
-
+// add adjectives and adverbs
+  
   // Flag for errors and helper methods
   var errorFound : Boolean = false
   def setError() = errorFound = true
