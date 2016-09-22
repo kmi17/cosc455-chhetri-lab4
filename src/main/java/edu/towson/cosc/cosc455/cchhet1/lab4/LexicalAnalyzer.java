@@ -68,7 +68,7 @@ public class LexicalAnalyzer {
         lexems.add("\n");lexems.add("teh"); lexems.add("a");
         lexems.add("dawg"); lexems.add("kat"); lexems.add("rat");
         lexems.add("ates"); lexems.add("lovez"); lexems.add("hatez");
-		//lexems.add("accidentally"); lexems.add("quickly"); lexems.add("secretly");
+		lexems.add("accidentally"); lexems.add("quickly"); lexems.add("secretly");
 		lexems.add("fat"); lexems.add("hungry"); lexems.add("happy");
 		lexems.add("mean");
     }

@@ -3,5 +3,5 @@
 /<verb>	 	    ::=	lovez  |  hatez  | ates
 <noun>	 	    ::=	dawg  |  kat  |  rat
 <article>	    ::=	a  | teh
-
+<adverb> ::= accidentally| quickly| secretly
 <adjective> ::= fat|hungry|happy|mean
